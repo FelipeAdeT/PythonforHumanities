@@ -3,3 +3,4 @@ pandas
 jupyter
 jupyter_contrib_nbextensions
 ipycanvas
+turtle

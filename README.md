@@ -1,6 +1,6 @@
 # Python for the Humanities
 
-To view an interactive version, go to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanists2/master)
+To view an interactive version, go to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master)
 
 ## Course Description
 
