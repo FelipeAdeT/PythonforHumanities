@@ -4,8 +4,8 @@ Q1 = Solution("Your code might look something like:\n\ncount = 6\n\nwhile count 
 
 Q2 = Solution("from random import shuffle\ngame = ['duck', 'duck', 'duck', 'goose', 'duck']\n\nwhile game[0]=='duck':\n    print('safe')\n    shuffle(game)\n\nprint('Run!')")
 
-Q3 = Solution("value = 0\n\nwhile True:\n    value= value+1\n        if value%2!=0:\n        continue\n    print(value)\n    if value ==20:\n\n        break")
+Q3 = Solution("value = 0\nwhile True:\n    value= value+1\n    if value%2==0:\n        print(value)\n    if value ==20:\n        break")
 
-Q4 = Solution("value = 0\n\nwhile value<=20:\n    value= value+1\n        if value%2!=0:\n        continue\nprint(value)\n")
+Q4 = Solution("value = 0\n\nwhile value<=20:\n    value= value+1\n        if value%2==0:\n        print(value)\n")
 
 Q5 = Solution("You could use any term to refer to the items in the list, as long as you keep them consistent, and preferably, easy to understand. I chose 'donut'.\n\nMonutsDonuts = ['Classic Chocolate','Strawberry','Maple-Bacon','Plain Glazed', 'Raspberry','Lemon Glaze']\n\nfor donut  in  MonutsDonuts:\n    if 'Glaze' in donut:\n        print(donut)")
