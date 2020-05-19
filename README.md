@@ -45,7 +45,7 @@ This resource is comprised as a set of modules that can be chosen depending on t
 
 ***Introduction*** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
 
-***Lesson 1:*** [Reading%20Python%20Script](01%20Reading%20Python%20Script.ipynb)
+***Lesson 1:*** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
 
 ***Lesson 2:*** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
 
@@ -61,17 +61,13 @@ This resource is comprised as a set of modules that can be chosen depending on t
 
 ***Lesson 6:*** [Accessing Files](06%20Accessing%20Files.ipynb)
 
-***Lesson 7:*** [Modules](07%20Modules.ipynb)
+***Lesson 7*** [Functions](07%20Functions.ipynb)
 
-***Lesson 8*** [Functions](08%20Functions.ipynb)
+***Lesson 8*** [Further Data Types: Collections](08%20Further%20Data%20Types%20(Collections).ipynb)
 
-***Lesson 9*** [Further Data Types: Collections](09%20Further%20Data%20Types%20(Collections).ipynb)
+***Lesson 9*** [Pandas](09%20Pandas.ipynb)
 
-***Lesson 10*** [Pandas](10%20Pandas.ipynb)
-
-***Lesson 11*** [Power up your Python](11%20Powering%20Up%20Your%20Python.ipynb)
-
-***Review 2*** Simple Generative Art with Turtle, Pycairo or Processing
+***Lesson 10*** [Power up your Python](10%20Powering%20Up%20Your%20Python.ipynb)
 
 **Section 3: Cases. Useful Workflows & Modules for the Humanities**
 
@@ -88,8 +84,6 @@ This resource is comprised as a set of modules that can be chosen depending on t
 ***Case 6:*** [Tidy Data]()
 
 ***Case 7:*** [Webscraping]()
-
-
 
 Other potential cases or subcases: data gathering, data cleaning (text), network analysis, image analysis
 
