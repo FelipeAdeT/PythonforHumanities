@@ -101,6 +101,10 @@ That being said, you will need to download Python and Jupyter, as well as additi
 
 We provide the steps for when you choose to do so in [this notebook](Python,%20Jupyter%20and%20Packages%20Installation.ipynb).
 
+## Credits
+
+This resource was developed under the framework of [Humanities Unbounded](https://humanitiesunbounded.duke.edu) at Duke University. 
+
 ## Contact
 
 Felipe Álvarez de Toledo is a Ph.D. candidate in the department of Art, Art History & Visual Studies at Duke University, as well as the Duke Wired! Lab's Spring 2020 Teaching Assistant and 2020-2021 Humanities Unbounded Digital Humanities Graduate Student Assistant at Duke Libraries' Center for Data and Visualization Sciences.
