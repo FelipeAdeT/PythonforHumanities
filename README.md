@@ -41,51 +41,55 @@ Cases are long-form coding exercises that provide a workflow for a specific huma
 
 This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons. %20
 
-**Section 1: Introduction**
+**Section 1: Building Blocks of Python**
 
-***Introduction*** [Python and the Humanities](Python%20and%20the%20Humanities.ipynb)
+***Introduction*** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
 
-***Lesson 1:*** [Reading%20Python%20Script](Reading Python Script.ipynb)
+***Lesson 1:*** [Reading%20Python%20Script](01%20Reading%20Python%20Script.ipynb)
 
-***Review 0:*** (Pseudocode exercise?)
+***Lesson 2:*** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
 
-**Section 2: Semantics I: Constants, Variables, Modules and Files**
+***Lesson 3:*** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
 
-***Lesson 2:*** [Modules](Modules.ipynb)
+***Lesson 4*** [Conditionals](04%20Conditionals.ipynb)
 
-***Lesson 3:*** [Files](Files.ipynb)
+***Lesson 5*** [Loops](05%20Loops.ipynb)
 
-***Review 1*** Simple Mapping with ArcPy
+**Lesson5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5)).ipynb)
 
-**Section 3: Basic Syntax**
+**Section 2: Intermediate Python. Python for Projects
 
-***Lesson 4*** [Conditionals](Conditionals.ipynb)
+***Lesson 6:*** [Accessing Files](06%20Accessing%20Files.ipynb)
 
-***Lesson 5*** [Loops](Loops.ipynb)
+***Lesson 7:*** [Modules](07%20Modules.ipynb)
 
-***Lesson 6*** [Functions](Functions.ipynb)
+***Lesson 8*** [Functions](08%20Functions.ipynb)
+
+***Lesson 9*** [Further Data Types: Collections](09%20Further%20Data%20Types%20(Collections).ipynb)
+
+***Lesson 10*** [Pandas](10%20Pandas.ipynb)
+
+***Lesson 11*** [Power up your Python](11%20Powering%20Up%20Your%20Python.ipynb)
 
 ***Review 2*** Simple Generative Art with Turtle, Pycairo or Processing
 
-**Section 4: Semantics II: More Data Types**
+**Section 3: Cases. Useful Workflows & Modules for the Humanities**
 
-***Lesson 7:*** [Basic Data Types](Basic%20Data%20Types.ipynb)
+***Case 1:*** [Mapping with Python]()
 
-***Lesson 8:*** [Further Data Types (Collections)](Further%20Data%20Types%20(Collections).ipynb)
+***Case 2:*** [Simple Generative Art]()
 
-***Lesson 9:*** [Pandas for manipulating spreadsheets](Pandas.ipynb)
+***Case 3:*** [Cleaning Text with Python]()
 
-***Review 3*** Text analysis with NLTK or Spacy
+***Case 4:** [Text Analysis with Spacy]()
 
-**Section 5: Useful Workflows & Modules for the Humanities**
+***Case 5:*** [Linking Datasets through Fuzzy Matching]()
 
-***Case 1:*** [Web Scraping]()
+***Case 6:*** [Tidy Data]()
 
-***Case 2:*** [Working with data: creating and cleaning]()
+***Case 7:*** [Webscraping]()
 
-***Case 3:*** [Spatial Analysis: Geopy, Geotext, and Arcpy]()
 
-***Case 4*** [Data Visualization]()
 
 Other potential cases or subcases: data gathering, data cleaning (text), network analysis, image analysis
 
