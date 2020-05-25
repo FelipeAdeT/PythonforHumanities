@@ -14,7 +14,7 @@ Q6 = MultQuestion("Say we run this code. Which block will run and what will be t
              
 Q7 = Solution("if x<0:\n    print('x is less than 0')\nelif x<5:\n    print('x is less than 5')\nelif x<10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 10')")
              
-Q8 = MultQuestion("For x = 1, what would the following program's output?\n\nif x<0:\n    print('x is less than 0')\nif x<5:\n    print('x is less than 5')\nif x<10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 10')\n\na)x is less than 5\n\nb) x is less than 10\n\nb)x is less than 5\nx is less than 10\n\nd)x is less than 0\n\n",'c')
+Q8 = MultQuestion("For x = -1, what would the following program's output?\n\nif x<5:\n    print('x is less than 5')\nelif x<0:\n    print('x is less than 0')\nelif x<10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 10')\n\na)x is less than 5\n\nb) x is less than 10\n\nb)x is less than 5\nx is less than 10\n\nd)x is less than 0\n\n",'a')
              
 Q9 = MultQuestion("For x = 4, what would the following program output?\n\nif x<0:\n    print('x is less than 0')\n    if x<5:\n        print('x is less than 5')\nif x<10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 10')\n\na)x is less than 5\nx is less than 10\n\nb) x is less than 10\n\nb)x is less than 0\nx is less than 5\nx is less than 10\n\nd)x is less than 5\n\n",'b')
              

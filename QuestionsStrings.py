@@ -10,6 +10,6 @@ Q4 = MultQuestion("At what positions were the artist's first and last initials, 
 
 Q5 = MultQuestion("Which slice would you use?\n\na) artist[0,6] \n\nb) artist[0:6] \n\nc) artist[0:7] \n\nd) artist[1:6] \n\n","c")
 
-Q6 = MultQuestion("In which two ways could we extract the artist's last name?\n\na) print(artist[6]) or print(artist[6:]) \n\nb) print(artist[6:11]) or print(artist[6]) \n\nc) print(artist[6:10]) or print(artist[6:]) \n\nd) print(artist[6:11]) or print(artist[6:]) \n\n","d")
+Q6 = MultQuestion("In which two ways could we extract the artist's last name?\n\na) artist[6] or artist[6:] \n\nb) artist[6:11] or artist[6] \n\nc) artist[6:10] or artist[6:] \n\nd) artist[6:11] or artist[6:] \n\n","d")
 
 Q7 = Solution("""artists=artists.replace('_',' ')\nartists=artists.replace('0','o')\nartists=artists.title()\nartists=artists.split(',')\n\nThis could also be done on the same line: \nartists= artists.replace('_',' ').replace('0','o').title().split(',') """)

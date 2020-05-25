@@ -4,7 +4,7 @@ Q1 = Solution("Your code might look something like:\n\ncount = 6\n\nwhile count 
 
 Q2 = Solution("from random import shuffle\ngame = ['duck', 'duck', 'duck', 'goose', 'duck']\n\nwhile game[0]=='duck':\n    print('safe')\n    shuffle(game)\n\nprint('Run!')")
 
-Q3 = Solution("value = 0\nwhile True:\n    value= value+1\n    if value%2==0:\n        print(value)\n    if value ==20:\n        break")
+Q3 = Solution("value = 0\nwhile True:\n    if value%2==0:\n        print(value)\n    if value ==20:\n        break\n    value= value+1")
 
 Q4 = Solution("value = 0\n\nwhile value<=20:\n    value= value+1\n        if value%2==0:\n        print(value)\n")
 
