@@ -55,7 +55,7 @@ This resource is comprised as a set of modules that can be chosen depending on t
 
 ***Lesson 5*** [Loops](05%20Loops.ipynb)
 
-**Lesson5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5)).ipynb)
+**Lesson5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)
 
 **Section 2: Intermediate Python. Python for Projects
 
