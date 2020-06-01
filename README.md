@@ -22,13 +22,33 @@ The following are the primary learning objectives for students:
 
 1. Lay the foundations and provide tools for further learning 
 
-## Navigating the Content
+## Course Navigation
 
-This course is a collection of Jupyter Notebooks hosted on Github. Jupyter Notebooks are files that allow us to combine Python code with descriptive text and images. On the Github website, they can be viewed, but not interacted with (i.e., users cannot run the code in the examples). 
+This course is a collection of Jupyter Notebooks hosted on Github.  Jupyter Notebooks are files in which text in markdown can be combined with executable code cells. We can thus develop an explanation while allowing you to read, edit, write and run code as you learn.  On the Github website, these files can be viewed, but not interacted with (i.e., users cannot run the code in the examples). 
 
-For an interactive version that does not require the installation of Jupyter, Python or any other software, we have uploaded the course on mybinder.com. The course is available here --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master).
+These notebooks have been published on Binder, allowing you to experience this as an interactive resource without having to download anything. The course is available here --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master).
 
-To start the course, double click on 00 Python and the Humanities, which is the first lesson. If you prefer to follow another order, any numbered file is a lesson, giving content and short exercises. Below are descriptions of each file. Cases are long-form coding exercises that provide a workflow for a specific humanities task.
+It helps to understand the options available on Jupyter Notebooks and Binder to make the most of this learning experience. 
+
+Once the binder has loaded, you should find yourself in a directory with multiple files. Files starting with a number are lessons; you can follow their order or use your own criteria. Once you have decided on a file, you can double-click on it to open.
+
+Notebooks are divided into cells, which can include text or code. If you click into a text cell, it is editable; do not worry if you accidentally do this; just press the ** run ($\triangleright $) button** above or click **```shift```+```enter```** to render the markdown again. 
+
+<img src="Other_files/Gif2.gif" width="600" >
+
+Code cells are grey, and you can also click inside to edit them. To run a code cell, you can click the Run ($\triangleright $) button in the ribbon above or press shift + enter. 
+
+<img src="Other_files/Gif3.gif" width="600" >
+
+Please run code cells as you encounter them in this course. The first thing to do upon entering a file is running the first code cell, which imports any necessary modules into the file. And don't be scared to edit and experiment! **Changes will not be saved.**
+
+If at some point you find yourself wanting to create a cell to write your own code, click on the left side of any cell and press **```A```** or *```B```** on your keyboard. This will create a cell above or below the cell you have selected.
+
+Finally, we have prepared questions to test your knowledge as the course develops. In-lesson questions appear as a code cell you have to run. Run it by clicking inside the cell and using the run button or shift + enter. The question should appear. Type your answer in the input box, and press enter. This should give you feedback.
+
+<img src="Other_files/Gif4.gif" width="600" >
+
+To start the course, open the binder link and then double click on 00 Python and the Humanities, which is the first lesson. If you prefer to follow another order, any numbered file is a lesson, giving content and short exercises. Below are descriptions of each file. Cases are long-form coding exercises that provide a workflow for a specific humanities task.
 
 ## Recommended Course Itinerary
 
