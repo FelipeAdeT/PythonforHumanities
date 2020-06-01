@@ -6,7 +6,7 @@ Q2 = MultQuestion("Python interprets whitespace as part of the structure of the 
 
 Q3 = Solution("count = 10 \nwhile count > 0: \n    print(str(count) +'!') \n    count = count - 1 \nprint('lift off!')")
 
-Q4= Solution("donuts = ['Plain-Glazed', 'Classic Chocolate']")
+Q4= Solution("You could choose any name for this variable, although it is best to choose one that makes sense to the reader (we chose 'donuts', but you could also use 'flavors' or 'donutflavors', for instance. The variable should be assigned to a list object, and remember to surround strings with quotes.\n\ndonuts = ['Plain-Glazed', 'Maple Bacon', 'Classic Chocolate']")
 
 Q5=MultQuestion('Which of these statements assigns a variable to an object?\n\na) object = variable \n\nb) variable == object \n\nc) object==variable \n\nd) variable=object\n\n','d',"Correct! When assigning a variable to an object, the variable is on the left, followed by a single equals sign and then the object.","Try again. When assigning a variable to an object, the variable is on the left, followed by a single equals sign and then the object.")
 
