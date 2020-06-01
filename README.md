@@ -10,6 +10,14 @@ It applies a different approach from typical Python lessons by starting with app
 
 The examples used are also intended to illustrate the possibilities of coding for the humanities.
 
+This course is intended as an independent online resource that does not need a spoken workshop (though it could serve as a resource in one). Students should emerge from this course with a solid understanding of the basics of Python that they can later increment with further training or self-study.
+
+We provide notebooks for learning Python basics that include short exercises. At the beginning of the course, exercises are pre-written. Students will modify code to make it work instead of writing it from scratch. As the course advances, students will increasingly work on their own.
+
+These lessons are followed by 'cases', longform  practical examples that are relevant to the humanities. Additional notebooks explaining how to install Python and Jupyter Notebooks are also available, as well as a list of resources for further training.
+
+Students or teachers can pick notebooks as necessary for a course or project. We cover the standard basics, emphasizing practical needs for humanists, divided into two main sections. Section 1 (Lessons 01-05) provide the building blocks of Python: the knowledge necessary for writing functional Python script. We call section 2 (Lessons 06-10) 'Practical Python,' which gives the basic information necessary for developing your own projects. Order and the emphasis differ from courses with other publics in mind. 
+
 ### Course Objectives
 
 Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering pay off at a considerable delay. Oftentimes, they teach the structures of the language without giving the tools to piece it together for a practical application.
@@ -62,47 +70,30 @@ This resource is comprised as a set of modules that can be chosen depending on t
 ### Section 1: Building Blocks of Python**
 
 **Introduction** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
-
 **Lesson 1:** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
-
 **Lesson 2:** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
-
 **Lesson 3:** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20II%20-%20Strings.ipynb)
-
 **Lesson 4** [Conditionals](04%20Conditionals.ipynb)
-
 **Lesson 5** [Loops](05%20Loops.ipynb)
-
 **Lesson5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)
 
 ### Section 2: Intermediate Python. Python for Projects
 
 **Lesson 6:** [Accessing Files](06%20Accessing%20Files.ipynb)
-
 **Lesson 7** [Functions](07%20Functions.ipynb)
-
 **Lesson 8** [Further Data Types: Collections](08%20Further%20Data%20Types%20(Collections).ipynb)
-
 **Lesson 9** [Pandas](09%20Pandas.ipynb)
-
 **Lesson 10** [Pandas II](10%20Pandas%20II.ipynb)
-
-**Lesson 10** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
+**Lesson 11** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
 
 ## Section 3: Cases. Useful Workflows & Modules for the Humanities
 
 **Case 1:** [Mapping with Python]()
-
 **Case 2:** [Simple Generative Art]()
-
 **Case 3:** [Cleaning Text with Python]()
-
 **Case 4:** [Text Analysis with Spacy]()
-
 **Case 5:** [Linking Datasets through Fuzzy Matching]()
-
 **Case 6:** [Tidy Data]()
-
 **Case 7:** [Webscraping]()
 
 Other potential cases or subcases: data gathering, data cleaning (text), network analysis, image analysis
