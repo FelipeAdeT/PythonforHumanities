@@ -1,7 +1,5 @@
 ## Python for the Humanities
 
-To view an interactive version, go to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master)
-
 ## Course Description
 
 This course imparts the basics of Python for students and scholars working in the humanities. 
@@ -26,20 +24,15 @@ The following are the primary learning objectives for students:
 
 ## Navigating the Content
 
-Clicking on the link to the course on Binder will take you to a docker image of our Github Repository. 
+This course is a collection of Jupyter Notebooks hosted on Github. Jupyter Notebooks are files that allow us to combine Python code with descriptive text and images. On the Github website, they can be viewed, but not interacted with (i.e., users cannot run the code in the examples). 
 
-You will see a list of files. You can click on a lesson to begin. 
+For an interactive version that does not require the installation of Jupyter, Python or any other software, we have uploaded the course on mybinder.com. The course is available here --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master).
 
-Lessons are intended to be more content-driven, with exercises that drive home context and basic commands.
-
-Reviews are long-form coding exercises at the end of a section for consolidating knowledge from the lessons in said section.
-
-Cases are long-form coding exercises that provide a workflow for a specific humanities task.
-
+To start the course, double click on 00 Python and the Humanities, which is the first lesson. If you prefer to follow another order, any numbered file is a lesson, giving content and short exercises. Below are descriptions of each file. Cases are long-form coding exercises that provide a workflow for a specific humanities task.
 
 ## Recommended Course Itinerary
 
-This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons. %20
+This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons.
 
 ### Section 1: Building Blocks of Python**
 
