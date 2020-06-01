@@ -10,17 +10,22 @@ It applies a different approach from typical Python lessons by starting with app
 
 The examples used are also intended to illustrate the possibilities of coding for the humanities.
 
-## Objectives
+### Course Objectives
 
-The following are the primary learning objectives for students:
+Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering pay off at a considerable delay. Oftentimes, they teach the structures of the language without giving the tools to piece it together for a practical application.
 
-1. Explore Humanities applications of Python
+Objectives:
 
-1. Spark an interest in programming with Python
+1. Stimulate an interest in Python through  a first contact with key implementations for the humanities.
+1. Lay the foundations of reading, modifying and writing Python code in two areas:
+    - Teach the building blocks of Python
+    - Provide functional knowledge applicable to projects
+1. Deliver pay-off early on by:
+    - Giving practical, project-oriented examples and exercises
+    - Focus on concepts that will be central to humanistic research    
+1. Stress understanding and reuse of existing code
+1. Point to resources for further learning
 
-1. Learn to read, modify and write basic Python code
-
-1. Lay the foundations and provide tools for further learning 
 
 ## Course Navigation
 
@@ -32,17 +37,17 @@ It helps to understand the options available on Jupyter Notebooks and Binder to 
 
 Once the binder has loaded, you should find yourself in a directory with multiple files. Files starting with a number are lessons; you can follow their order or use your own criteria. Once you have decided on a file, you can double-click on it to open.
 
-Notebooks are divided into cells, which can include text or code. If you click into a text cell, it is editable; do not worry if you accidentally do this; just press the ** run ($\triangleright $) button** above or click **```shift```+```enter```** to render the markdown again. 
+Notebooks are divided into cells, which can include text or code. If you click into a text cell, it is editable; do not worry if you accidentally do this; just press the ** run button** above or click **```shift```+```enter```** to render the markdown again. 
 
 <img src="Other_files/Gif2.gif" width="600" >
 
-Code cells are grey, and you can also click inside to edit them. To run a code cell, you can click the Run ($\triangleright $) button in the ribbon above or press shift + enter. 
+Code cells are grey, and you can also click inside to edit them. To run a code cell, you can click the Run button in the ribbon above or press shift + enter. 
 
 <img src="Other_files/Gif3.gif" width="600" >
 
 Please run code cells as you encounter them in this course. The first thing to do upon entering a file is running the first code cell, which imports any necessary modules into the file. And don't be scared to edit and experiment! **Changes will not be saved.**
 
-If at some point you find yourself wanting to create a cell to write your own code, click on the left side of any cell and press **```A```** or *```B```** on your keyboard. This will create a cell above or below the cell you have selected.
+If at some point you find yourself wanting to create a cell to write your own code, click on the left side of any cell and press **```A```** or **```B```** on your keyboard. This will create a cell above or below the cell you have selected.
 
 Finally, we have prepared questions to test your knowledge as the course develops. In-lesson questions appear as a code cell you have to run. Run it by clicking inside the cell and using the run button or shift + enter. The question should appear. Type your answer in the input box, and press enter. This should give you feedback.
 
