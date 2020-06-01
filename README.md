@@ -1,4 +1,4 @@
-# Python for the Humanities
+## Python for the Humanities
 
 To view an interactive version, go to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master)
 
@@ -41,49 +41,51 @@ Cases are long-form coding exercises that provide a workflow for a specific huma
 
 This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons. %20
 
-**Section 1: Building Blocks of Python**
+### Section 1: Building Blocks of Python**
 
-***Introduction*** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
+**Introduction** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
 
-***Lesson 1:*** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
+**Lesson 1:** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
 
-***Lesson 2:*** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
+**Lesson 2:** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
 
-***Lesson 3:*** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
+**Lesson 3:** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20II%20-%20Strings.ipynb)
 
-***Lesson 4*** [Conditionals](04%20Conditionals.ipynb)
+**Lesson 4** [Conditionals](04%20Conditionals.ipynb)
 
-***Lesson 5*** [Loops](05%20Loops.ipynb)
+**Lesson 5** [Loops](05%20Loops.ipynb)
 
 **Lesson5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)
 
-**Section 2: Intermediate Python. Python for Projects
+### Section 2: Intermediate Python. Python for Projects
 
-***Lesson 6:*** [Accessing Files](06%20Accessing%20Files.ipynb)
+**Lesson 6:** [Accessing Files](06%20Accessing%20Files.ipynb)
 
-***Lesson 7*** [Functions](07%20Functions.ipynb)
+**Lesson 7** [Functions](07%20Functions.ipynb)
 
-***Lesson 8*** [Further Data Types: Collections](08%20Further%20Data%20Types%20(Collections).ipynb)
+**Lesson 8** [Further Data Types: Collections](08%20Further%20Data%20Types%20(Collections).ipynb)
 
-***Lesson 9*** [Pandas](09%20Pandas.ipynb)
+**Lesson 9** [Pandas](09%20Pandas.ipynb)
 
-***Lesson 10*** [Power up your Python](10%20Powering%20Up%20Your%20Python.ipynb)
+**Lesson 10** [Pandas II](10%20Pandas%20II.ipynb)
 
-**Section 3: Cases. Useful Workflows & Modules for the Humanities**
+**Lesson 10** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
 
-***Case 1:*** [Mapping with Python]()
+## Section 3: Cases. Useful Workflows & Modules for the Humanities
 
-***Case 2:*** [Simple Generative Art]()
+**Case 1:** [Mapping with Python]()
 
-***Case 3:*** [Cleaning Text with Python]()
+**Case 2:** [Simple Generative Art]()
 
-***Case 4:** [Text Analysis with Spacy]()
+**Case 3:** [Cleaning Text with Python]()
 
-***Case 5:*** [Linking Datasets through Fuzzy Matching]()
+**Case 4:** [Text Analysis with Spacy]()
 
-***Case 6:*** [Tidy Data]()
+**Case 5:** [Linking Datasets through Fuzzy Matching]()
 
-***Case 7:*** [Webscraping]()
+**Case 6:** [Tidy Data]()
+
+**Case 7:** [Webscraping]()
 
 Other potential cases or subcases: data gathering, data cleaning (text), network analysis, image analysis
 

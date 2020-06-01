@@ -4,7 +4,7 @@ Q1 = MultQuestion("I want to run a line of code and add a comment about what I a
 
 Q2 = MultQuestion("Python interprets whitespace as part of the structure of the language. Which of the following are true?\n\na)Lines represent statements \n\nb)Lines indented at the same level form part of a block of code \n\nc) Extra whitespace within a line, and extra blank lines, are not interpreted by Python \n\nd) All of the above.\n\n", "d", "Correct! Whitespace is important in Python in all these ways.", "Incorrect. Python uses whitespace in all the ways above.")
 
-Q3 = Solution("count = 10 \nwhile count > 0: \n    print(str(count) +"!") \n    count = count - 1 \nprint("lift off!"))
+Q3 = Solution("count = 10 \nwhile count > 0: \n    print(str(count) +'!') \n    count = count - 1 \nprint('lift off!')")
 
 Q4= Solution("donuts = ['Plain-Glazed', 'Classic Chocolate']")
 
