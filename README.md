@@ -1,4 +1,4 @@
-## Python for the Humanities
+# Python for the Humanities
 
 ## Course Description
 
@@ -18,7 +18,7 @@ These lessons are followed by 'cases', longform  practical examples that are rel
 
 Students or teachers can pick notebooks as necessary for a course or project. We cover the standard basics, emphasizing practical needs for humanists, divided into two main sections. Section 1 (Lessons 01-05) provide the building blocks of Python: the knowledge necessary for writing functional Python script. We call section 2 (Lessons 06-10) 'Practical Python,' which gives the basic information necessary for developing your own projects. Order and the emphasis differ from courses with other publics in mind. 
 
-### Course Objectives
+## Course Objectives
 
 Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering pay off at a considerable delay. Oftentimes, they teach the structures of the language without giving the tools to piece it together for a practical application.
 
@@ -67,7 +67,7 @@ To start the course, open the binder link and then double click on 00 Python and
 
 This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons.
 
-### Section 1: Building Blocks of Python**
+### Section 1: Building Blocks of Python
 
 - **Introduction** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
 - **Lesson 1:** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
@@ -75,7 +75,7 @@ This resource is comprised as a set of modules that can be chosen depending on t
 - **Lesson 3:** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20II%20-%20Strings.ipynb)
 - **Lesson 4** [Conditionals](04%20Conditionals.ipynb)
 - **Lesson 5** [Loops](05%20Loops.ipynb)
-- **Lesson5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)
+- **Lesson 5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)
 
 ### Section 2: Intermediate Python. Python for Projects
 
