@@ -7,3 +7,8 @@ Q2 = MultQuestion("How can you recognize that the string has been transformed in
 Q3 = MultQuestion("Can we operate on these numbers directly?\n\na) No, Python gives us an error because one of these is not a number. \n\nb) Yes, Python allows us to subtract strings.\n\nb) No, Python does not allow us to subtract numbers.\n\nd)None of the above.\n\n","a", right='Correct! We must be careful with data types', wrong='Are you sure? Be mindful of data types')
 
 Q4 = MultQuestion("What is the correct approach for figuring out the artist's life span?\n\na) Subtract year_of_birth from year_of_death \n\nb) Convert the variables to strings, then subtract\n\nc)Convert the year_of_death to a number, then subtract\n\nd)None of the above.\n\n","c")
+
+E1 = Solution("year_of_birth = int(year_of_birth)")
+
+E2 = Solution("(x-y)**2/2")
+E3 = Solution("lifespan = year_of_death - year_of_birth\nprint(lifespan)")
