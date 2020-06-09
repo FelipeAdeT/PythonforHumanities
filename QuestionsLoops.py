@@ -1,8 +1,8 @@
 from Questions import *
 
-Q1 = Solution("Your code might look something like:\n\ncount = 6\n\nwhile count > 0:\n    if count %2 ==0:\n        print('tick')\n    else:\n        print('tock')\n    count = count-1\nprint('Ring!')")
+E1 = Solution("Your code might look something like:\n\ncount = 6\n\nwhile count > 0:\n    if count %2 ==0:\n        print('tick')\n    else:\n        print('tock')\n    count = count-1\nprint('Ring!')")
 
-Q2 = Solution("from random import shuffle\ngame = ['duck', 'duck', 'duck', 'goose', 'duck']\n\nwhile game[0]=='duck':\n    print('safe')\n    shuffle(game)\n\nprint('Run!')")
+E2 = Solution("from random import shuffle\ngame = ['duck', 'duck', 'duck', 'goose', 'duck']\n\nwhile game[0]=='duck':\n    print('safe')\n    shuffle(game)\n\nprint('Run!')")
 
 Q3 = Solution("value = 0\nwhile True:\n    if value%2==0:\n        print(value)\n    if value ==20:\n        break\n    value= value+1")
 
