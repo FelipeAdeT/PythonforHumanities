@@ -1,39 +1,20 @@
 # Python for the Humanities
 
+If you've read the README below and want to start on the interactive lessons, click here --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master).
+
 ## Course Description
 
-This course imparts the basics of Python for students and scholars working in the humanities. 
+This course imparts the basics of Python for students and scholars working in the humanities. Order and the emphasis differ from courses with other publics in mind.  
 
-The course is focused on teaching a functional knowledge of the building blocks of Python, but is intended to be less code-heavy and more about being able to read code and use and modify preexisting resources. 
+It applies a different approach from typical Python lessons by starting with applicable examples and teaching the meaning of code as the student runs into it. This mirrors the way humanists often have to work on projects that use code, progressing and searching for solutions as a project develops. The examples used are intended to illustrate the possibilities of coding for the humanities.
 
-It applies a different approach from typical Python lessons by starting with applicable examples and teaching the meaning of code as the student runs into it. This mirrors the way humanists often have to work on projects that use code, progressing and searching for solutions as a project develops.
-
-The examples used are also intended to illustrate the possibilities of coding for the humanities.
-
-This course is intended as an independent online resource that does not need a spoken workshop (though it could serve as a resource in one). Students should emerge from this course with a solid understanding of the basics of Python that they can later increment with further training or self-study.
+The course is intended as an independent online resource that does not need a spoken workshop (though it could serve as a resource in one). Students should emerge from the course with a solid understanding of the basics of Python that they can later increment with further training or self-study.
 
 We provide notebooks for learning Python basics that include short exercises. At the beginning of the course, exercises are pre-written. Students will modify code to make it work instead of writing it from scratch. As the course advances, students will increasingly work on their own.
 
-These lessons are followed by 'cases', longform  practical examples that are relevant to the humanities. Additional notebooks explaining how to install Python and Jupyter Notebooks are also available, as well as a list of resources for further training.
+These lessons are followed by 'cases', long-form  practical examples that are relevant to the humanities. Additional notebooks explaining how to install Python and Jupyter Notebooks are also available, as well as a list of resources for further training.
 
-Students or teachers can pick notebooks as necessary for a course or project. We cover the standard basics, emphasizing practical needs for humanists, divided into two main sections. Section 1 (Lessons 01-05) provide the building blocks of Python: the knowledge necessary for writing functional Python script. We call section 2 (Lessons 06-10) 'Practical Python,' which gives the basic information necessary for developing your own projects. Order and the emphasis differ from courses with other publics in mind. 
-
-## Course Objectives
-
-Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering pay off at a considerable delay. Oftentimes, they teach the structures of the language without giving the tools to piece it together for a practical application.
-
-Objectives:
-
-1. Stimulate an interest in Python through  a first contact with key implementations for the humanities.
-1. Lay the foundations of reading, modifying and writing Python code in two areas:
-    - Teach the building blocks of Python
-    - Provide functional knowledge applicable to projects
-1. Deliver pay-off early on by:
-    - Giving practical, project-oriented examples and exercises
-    - Focus on concepts that will be central to humanistic research    
-1. Stress understanding and reuse of existing code
-1. Point to resources for further learning
-
+Students or teachers can pick notebooks as necessary for a course or project. We cover the standard basics, emphasizing practical needs for humanists, divided into two main sections. Section 1 (Lessons 01-06) provide the building blocks of Python: the semantic and syntactical knowledge necessary for writing functional Python script. We call section 2 (Lessons 07-10) 'Practical Python,' which gives further useful information for developing your own projects. 
 
 ## Course Navigation
 
@@ -63,6 +44,22 @@ Finally, we have prepared questions to test your knowledge as the course develop
 
 To start the course, open the binder link and then double click on 00 Python and the Humanities, which is the first lesson. If you prefer to follow another order, any numbered file is a lesson, giving content and short exercises. Below are descriptions of each file. Cases are long-form coding exercises that provide a workflow for a specific humanities task.
 
+## Course Objectives
+
+Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering pay off at a considerable delay. Oftentimes, they teach the structures of the language without giving the tools to piece it together for a practical application.
+
+Objectives:
+
+1. Stimulate an interest in Python through  a first contact with key implementations for the humanities.
+1. Lay the foundations of reading, modifying and writing Python code in two areas:
+    - Teach the building blocks of Python
+    - Provide functional knowledge applicable to projects
+1. Deliver pay-off early on by:
+    - Giving practical, project-oriented examples and exercises
+    - Focus on concepts that will be central to humanistic research    
+1. Stress understanding and reuse of existing code
+1. Point to resources for further learning
+
 ## Recommended Course Itinerary
 
 This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons.
@@ -73,15 +70,15 @@ This resource is comprised as a set of modules that can be chosen depending on t
 - **Lesson 1:** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
 - **Lesson 2:** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
 - **Lesson 3:** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20II%20-%20Strings.ipynb)
-- **Lesson 4** [Conditionals](04%20Conditionals.ipynb)
-- **Lesson 5** [Loops](05%20Loops.ipynb)
-- **Lesson 5B** [Putting it all together](05B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)
+- **Lesson 4** [Basic Data Types III: Collections](04%20Basic%20Data%20Types%20III%20-%20Collections.ipynb)
+- **Lesson 5**[Conditionals](05%20Conditionals.ipynb)
+- **Lesson 6** [Loops](06%20Loops.ipynb)
+[- **Lesson 6B** [Putting it all together](06B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)]
 
 ### Section 2: Intermediate Python. Python for Projects
 
-- **Lesson 6:** [Accessing Files](06%20Accessing%20Files.ipynb)
-- **Lesson 7** [Functions](07%20Functions.ipynb)
-- **Lesson 8** [Further Data Types: Collections](08%20Further%20Data%20Types%20(Collections).ipynb)
+- **Lesson 7:** [Accessing Files](07%20Accessing%20Files.ipynb)
+- **Lesson 8** [Functions](08%20Functions.ipynb)
 - **Lesson 9** [Pandas](09%20Pandas.ipynb)
 - **Lesson 10** [Pandas II](10%20Pandas%20II.ipynb)
 - **Lesson 11** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
@@ -108,7 +105,7 @@ We provide the steps for when you choose to do so in [this notebook](Python,%20J
 
 ## Credits
 
-This resource was developed under the framework of [Humanities Unbounded](https://humanitiesunbounded.duke.edu) at Duke University. 
+This resource was developed as a resource for [Humanities Unbounded](https://humanitiesunbounded.duke.edu) Digital Humanities Labs at Duke University and as a resource for the Wired! Lab at Duke University's Art, Art History and Visual Studies Department.
 
 ## Contact
 
