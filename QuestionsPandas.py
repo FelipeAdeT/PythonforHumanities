@@ -2,7 +2,7 @@ from Questions import *
 
 E1 = Solution("people_table = pd.read_excel('Other_files/NGADataSample.xlsx', sheet_name='people')\npeople_table.head() # or people_table.tail() or people_table.columns\npeople_table.set_index('constituentid',inplace=True)")
 
-E2 = Solution("people_table['preferreddisplayname\n\npeople_table[['preferreddisplayname','constituenttype']]']")
+E2 = Solution("people_table['preferreddisplayname']\n\npeople_table[['preferreddisplayname','constituenttype']]")
 
 Q1 = MultQuestion("What type of containers were outputted by the two cells above? \n\na) A list (one-dimensional) and a dictionary (two-dimensional) \n\nb) A list (two-dimensional) and a DataFrame (one-dimensional)\n\nc) Two DataFrames (one-dimensional and two-dimensional) \n\nd) A Series (one-dimensional) and a DataFrame (two-dimensional)","d")
 
