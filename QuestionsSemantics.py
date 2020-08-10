@@ -14,5 +14,4 @@ E3=Solution("walrus=open('Other_files/TheWalrusandtheCarpenter.txt','r')\nfor li
 
 Q4= MultQuestion("What were the necessary actions included above?\n\na) Open the file in read mode, write count to the file, (explicit) close the file.\n\nb) Open the file in write mode, convert count into a string, write count to file, (implicit) close file.\n\nc)Open the file in read mode, convert count into a string, write count to file, (implicit) close file.\n\nd) Open the file in write mode, write count to the file, (explicit) close the file.\n\n" , "b")
 
-E4= Solution("import emoji as em\n
-emoji.emojize('Python is :thumbs_up:')")
+E4= Solution("import emoji as em\nemoji.emojize('Python is :thumbs_up:')")
