@@ -62,38 +62,31 @@ Objectives:
 
 ## Recommended Course Itinerary
 
-This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons.
+This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons. 
+
+**Note:** The titles below link to static versions of each lesson. To enter the interactive site for the lessons, click on the 'Launch Binder' button at the top of this page.
 
 ### Section 1: Building Blocks of Python
 
 - **Introduction** [Python and the Humanities](OO%20Python%20and%20the%20Humanities.ipynb)
-- **Lesson 1:** [Reading Python Script](01%20Reading%20Python%20Script.ipynb)
-- **Lesson 2:** [Basic Data Types I: Numbers & Numerical Operators](02%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
-- **Lesson 3:** [Basic Data Types II: Strings](03%20Basic%20Data%20Types%20II%20-%20Strings.ipynb)
-- **Lesson 4** [Basic Data Types III: Collections](04%20Basic%20Data%20Types%20III%20-%20Collections.ipynb)
-- **Lesson 5**[Conditionals](05%20Conditionals.ipynb)
-- **Lesson 6** [Loops](06%20Loops.ipynb)
-[- **Lesson 6B** [Putting it all together](06B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)]
+- **Lesson 1:** [Reading Python Script: Syntax](01%20Syntax.ipynb)
+- **Lesson 2:** [Reading Python Script: Semantics](01%20Semantics.ipynb)
+- **Lesson 3:** [Basic Data Types I: Numbers & Numerical Operators](03%20Basic%20Data%20Types%20I%20-%20Numbers.ipynb)
+- **Lesson 4:** [Basic Data Types II: Strings](04%20Basic%20Data%20Types%20II%20-%20Strings.ipynb)
+- **Lesson 5** [Basic Data Types III: Collections](05%20Basic%20Data%20Types%20III%20-%20Collections.ipynb)
+- **Lesson 6**[Conditionals](06%20Conditionals.ipynb)
+- **Lesson 7** [Loops](07%20Loops.ipynb)
+[- **Lesson 7B** [Putting it all together](07B%20Putting%20it%20all%20Together%20(Lessons%201-5).ipynb)]
 
 ### Section 2: Intermediate Python. Python for Projects
 
-- **Lesson 7:** [Accessing Files](07%20Accessing%20Files.ipynb)
 - **Lesson 8** [Functions](08%20Functions.ipynb)
 - **Lesson 9** [Pandas](09%20Pandas.ipynb)
 - **Lesson 10** [Pandas II](10%20Pandas%20II.ipynb)
 - **Lesson 11** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
 
-### Section 3: Cases. Useful Workflows & Modules for the Humanities
+This is an expanding resource. There is also a [Sandbox](Sandbox/Sandbox.md) area with additional notebooks and files with ideas for future additions.
 
-- **Case 1:** [Mapping with Python]()
-- **Case 2:** [Simple Generative Art]()
-- **Case 3:** [Cleaning Text with Python]()
-- **Case 4:** [Text Analysis with Spacy]()
-- **Case 5:** [Linking Datasets through Fuzzy Matching]()
-- **Case 6:** [Tidy Data]()
-- **Case 7:** [Webscraping]()
-
-Other potential cases or subcases: data gathering, data cleaning (text), network analysis, image analysis
 
 ## Installation Requisites
 
