@@ -10,8 +10,4 @@ E2= Solution("You could choose any name for this variable, although it is best t
 
 Q3=MultQuestion('Which of these statements assigns a variable to an object?\n\na) object = variable \n\nb) variable == object \n\nc) object == variable \n\nd) variable = object\n\n','d',"Correct! When assigning a variable to an object, the variable is on the left, followed by a single equals sign and then the object.","Try again. When assigning a variable to an object, the variable is on the left, followed by a single equals sign and then the object.")
 
-Q4 =MultQuestion("The following is what type of object?\n\ninput()\n\ninput() is a ________\n\na) function \n\n b) variable \n\nc) method \n\n d) string","a")
-
-Q5 =MultQuestion("The following is what type of object?\n \n string.replace()\n\nstring.replace() is a type of ______ called a ________\n\na)function, method\n\nb)variable,method\n\nc)function,variable\n\nd)module,function\n\n","a")
-
 E3 = Solution("arts = ['Painting','Architecture','Sculpture','Literature','Music','Performing','Film']\n\nprint(x)\n\n\nThe problem was that the variable x we were trying to print is not defined. Instead, if we wanted to print our 'arts' list, we should have included that in the print function. Alternatively, you could define a variable x to be printed by the print(x) statement.\nFor example:\n\nx= 'Frida Kahlo'\n\nprint(x).\n\n\nNote that x is not the best variable name.")
