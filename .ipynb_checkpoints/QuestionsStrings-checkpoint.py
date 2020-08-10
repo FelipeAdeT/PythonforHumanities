@@ -1,12 +1,12 @@
 from Questions import *
 
-E1 = Solution("a = \"Scarlett O'Hara\", a =\"Scarlett O\\'Hara\" or a ='Scarlett O\\'Hara'\n\nb = '\"The time has come,\" the walrus said, \"to talk of many things\"'\n\nc)'''\"But wait a bit,\" the Oysters cried,\n\"Before we have our chat;\nFor some of us are out of breath,\nAnd all of us are fat!\" '''\n\nd = r\'Filefolder/document.txt\'\n\n(Other solutions may be possible.)")
+E1 = Solution("a = \"Scarlett O'Hara\", a =\"Scarlett O\\'Hara\" or a ='Scarlett O\\'Hara'\n\nb = '\"The time has come,\" the walrus said, \"to talk of many things\"'\n\nc)'''\"But wait a bit,\" the Oysters cried,\n\"Before we have our chat;\nFor some of us are out of breath,\nAnd all of us are fat!\" '''\n\n(Other solutions may be possible.)")
 
 E2 = Solution("print(artist + \" (\"+ str(year_of_birth) +\"-\"+str(year_of_death) +\")\")")
 
 E3 = Solution("artist[1]\n\nOutput: 'r'")
 
-E4 = Solution("firstinitial = artist[0]\nlastinitial = artist[6]\n\nprint(firstinitial + '.' + lastinitial + '.')")
+E4 = Solution("firstinitial = artist[_]\nlastinitial = artist[_]\n\nprint(firstinitial + '.' + lastinitial + '.')")
 
 E5 = Solution("artist[0:7]")
 

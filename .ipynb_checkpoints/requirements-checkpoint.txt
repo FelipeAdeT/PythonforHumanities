@@ -1,0 +1,7 @@
+numpy
+pandas
+jupyter
+jupyter_contrib_nbextensions
+ipycanvas
+matplotlib
+xlrd
