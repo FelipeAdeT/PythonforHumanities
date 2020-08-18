@@ -79,20 +79,20 @@ This resource is comprised as a set of modules that can be selected depending on
 - **Lesson 10** [Pandas II](10%20Pandas%20II.ipynb)
 - **Lesson 11** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
 
-This is an expanding resource. There is also a [Sandbox](Sandbox/Sandbox.md) area with additional notebooks and files with ideas for future additions.
+This is an expanding resource. Resources for further learning are available [here](Resources%20for%20Further%20Learning.md). There is also a [Sandbox](Sandbox/Notes%20to%20the%20Next%20Editor.md) area with additional notebooks and files with ideas for future additions.
 
 
 ## Installation Requisites
 
 We are using Binder for all materials (slides, worksheets, etc.). Binder provides an online environment so that there is **no need to install** Python or Jupyter.
 
-That being said, you will need to download Python and Jupyter, as well as additional Python modules, for your future work. 
-
-We provide the steps for when you choose to do so in [this notebook](Python,%20Jupyter%20and%20Packages%20Installation.ipynb).
+That being said, you will need to download Python and Jupyter, as well as additional Python modules, for your future work. We recommend installing these by installing the [Anaconda Suite](https://anaconda.org). Instructions and other options are available online.
 
 ## Credits
 
-This resource was developed as a resource for [Humanities Unbounded](https://humanitiesunbounded.duke.edu) Digital Humanities Labs at Duke University and as a resource for the Wired! Lab at Duke University's Art, Art History and Visual Studies Department.
+This resource was developed as part of the [Humanities Unbounded](https://humanitiesunbounded.duke.edu) Digital Humanities Graduate Assistantship at the Duke Center for Data and Visualization Sciences and with funding from the Wired! Lab at Duke University's Art, Art History and Visual Studies Department. 
+
+Many thanks are due to Eric Monson from the Duke Center for Data and Visualization Sciences, whose weekly suggestions were invaluable throughout the many months this project was in development.
 
 ## Contact
 

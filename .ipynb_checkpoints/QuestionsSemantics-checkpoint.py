@@ -1,6 +1,6 @@
 from Questions import *
 
-Q1 = MultQuestion("Fill in the blanks:\n\nBasic data types for storing ___ values include _____. Basic data types for storing multiple values are called _____, and include _____.\n\na)multiple,strings, booleans, lists.\n\nb) single, strings, collections, dictionaries.\n\nc) single, dictionaries, collections, strings\n\nd) string, integers, dictionaries, collections")
+Q1 = MultQuestion("Fill in the blanks:\n\nBasic data types for storing ___ values include _____. Basic data types for storing multiple values are called _____, and include _____.\n\na)multiple,strings, booleans, lists.\n\nb) single, strings, collections, dictionaries.\n\nc) single, dictionaries, collections, strings\n\nd) string, integers, dictionaries, collections",'b')
 
 E1=Solution("type(artists)\nsorted(artists)\nlen(artists)")
 

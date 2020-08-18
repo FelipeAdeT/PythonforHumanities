@@ -4,29 +4,23 @@ If you've read the README below and want to start on the interactive lessons, cl
 
 ## Course Description
 
-This course imparts the basics of Python for students and scholars working in the humanities. Order and the emphasis differ from courses with other publics in mind.  
-
-It applies a different approach from typical Python lessons by starting with applicable examples and teaching the meaning of code as the student runs into it. This mirrors the way humanists often have to work on projects that use code, progressing and searching for solutions as a project develops. The examples used are intended to illustrate the possibilities of coding for the humanities.
+This course imparts the basics of Python for students and scholars working in the humanities. Order and the emphasis differ from courses with other publics in mind. The examples used are intended to illustrate the possibilities of coding for the humanities. Emphasis is initially made on reading and editing existing code, before writing their own. This mirrors the way humanists often have to work on coding projects, progressing and searching for solutions as a project develops. 
 
 The course is intended as an independent online resource that does not need a spoken workshop (though it could serve as a resource in one). Students should emerge from the course with a solid understanding of the basics of Python that they can later increment with further training or self-study.
 
-We provide notebooks for learning Python basics that include short exercises. At the beginning of the course, exercises are pre-written. Students will modify code to make it work instead of writing it from scratch. As the course advances, students will increasingly work on their own.
+We provide notebooks for learning Python basics that include short exercises. At the beginning of the course, students modify code to make it work instead of writing it from scratch; as the course advances, students will increasingly work on their own.
 
-These lessons are followed by 'cases', long-form  practical examples that are relevant to the humanities. Additional notebooks explaining how to install Python and Jupyter Notebooks are also available, as well as a list of resources for further training.
+Students or teachers can pick notebooks as necessary for a course or project. We cover the standard basics, emphasizing practical needs for humanists, divided into two main sections. Section 1 (Lessons 01-07) provide the building blocks of Python: the semantic and syntactical knowledge necessary for writing functional Python script. We call section 2 (Lessons 08-10) 'Practical Python,' which gives further useful information for developing your own projects. 
 
-Students or teachers can pick notebooks as necessary for a course or project. We cover the standard basics, emphasizing practical needs for humanists, divided into two main sections. Section 1 (Lessons 01-06) provide the building blocks of Python: the semantic and syntactical knowledge necessary for writing functional Python script. We call section 2 (Lessons 07-10) 'Practical Python,' which gives further useful information for developing your own projects. 
+**In development** These lessons are followed by 'cases', long-form  practical examples that are relevant to the humanities. Additional notebooks explaining how to install Python and Jupyter Notebooks are also available, as well as a list of resources for further training.
 
 ## Course Navigation
 
-This course is a collection of Jupyter Notebooks hosted on Github.  Jupyter Notebooks are files in which text in markdown can be combined with executable code cells. We can thus develop an explanation while allowing you to read, edit, write and run code as you learn.  On the Github website, these files can be viewed, but not interacted with (i.e., users cannot run the code in the examples). 
+This course is a collection of Jupyter Notebooks hosted on Github.  Jupyter Notebooks are files in which text in markdown can be combined with executable code cells. We can thus develop an explanation while allowing you to read, edit, write and run code as you learn.  When viewed on the Github website, these files are not interactive (i.e., users cannot run the code in the examples). These notebooks have also been published on Binder, allowing you to experience this as an interactive resource without having to download anything. The course is available here --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master).
 
-These notebooks have been published on Binder, allowing you to experience this as an interactive resource without having to download anything. The course is available here --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelipeAdeT/PythonforHumanities/master).
+**On binder** once the resource has loaded, you should find yourself in a directory with multiple files. Files starting with a number are lessons; you can follow their order or use your own criteria. Once you have decided on a file, you can double-click on it to open.
 
-It helps to understand the options available on Jupyter Notebooks and Binder to make the most of this learning experience. 
-
-Once the binder has loaded, you should find yourself in a directory with multiple files. Files starting with a number are lessons; you can follow their order or use your own criteria. Once you have decided on a file, you can double-click on it to open.
-
-Notebooks are divided into cells, which can include text or code. If you click into a text cell, it is editable; do not worry if you accidentally do this; just press the ** run button** above or click **```shift```+```enter```** to render the markdown again. 
+**Within a file** Jupyter Notebooks are divided into cells, which can include text or code. If you click into a text cell, it is editable; do not worry if you accidentally do this; just press the ** run button** above or click **```shift```+```enter```** to render the markdown again. 
 
 <img src="Other_files/Gif2.gif" width="600" >
 
@@ -46,7 +40,7 @@ To start the course, open the binder link and then double click on 00 Python and
 
 ## Course Objectives
 
-Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering pay off at a considerable delay. Oftentimes, they teach the structures of the language without giving the tools to piece it together for a practical application.
+Most resources for teaching python are not geared towards humanities students, but to a broader public that often has a programming background. Thus, they spend considerable time on concepts that will not be central to humanistic research, delivering payoff at a considerable delay. Oftentimes, they teach the structures of the language without providing the tools to piece it together for a practical application.
 
 Objectives:
 
@@ -62,9 +56,9 @@ Objectives:
 
 ## Recommended Course Itinerary
 
-This resource is comprised as a set of modules that can be chosen depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons. 
+This resource is comprised as a set of modules that can be selected depending on the needs of a particular student or group. Nevertheless, below is a recommended course itinerary for those who want to use all the lessons. 
 
-**Note:** The titles below link to static versions of each lesson. To enter the interactive site for the lessons, click on the 'Launch Binder' button at the top of this page.
+**Note:** The titles below link to static versions of each lesson on GitHub. To enter the interactive site for the lessons, click on the 'Launch Binder' button at the top of this page.
 
 ### Section 1: Building Blocks of Python
 
@@ -85,20 +79,20 @@ This resource is comprised as a set of modules that can be chosen depending on t
 - **Lesson 10** [Pandas II](10%20Pandas%20II.ipynb)
 - **Lesson 11** [Power up your Python](11%20Power%20Up%20Your%20Python.ipynb)
 
-This is an expanding resource. There is also a [Sandbox](Sandbox/Sandbox.md) area with additional notebooks and files with ideas for future additions.
+This is an expanding resource. Resources for further learning are available [here](Resources%20for%20Further%20Learning.md). There is also a [Sandbox](Sandbox/Notes%20to%20the%20Next%20Editor.md) area with additional notebooks and files with ideas for future additions.
 
 
 ## Installation Requisites
 
 We are using Binder for all materials (slides, worksheets, etc.). Binder provides an online environment so that there is **no need to install** Python or Jupyter.
 
-That being said, you will need to download Python and Jupyter, as well as additional Python modules, for your future work. 
-
-We provide the steps for when you choose to do so in [this notebook](Python,%20Jupyter%20and%20Packages%20Installation.ipynb).
+That being said, you will need to download Python and Jupyter, as well as additional Python modules, for your future work. We recommend installing these by installing the [Anaconda Suite](https://anaconda.org). Instructions and other options are available online.
 
 ## Credits
 
-This resource was developed as a resource for [Humanities Unbounded](https://humanitiesunbounded.duke.edu) Digital Humanities Labs at Duke University and as a resource for the Wired! Lab at Duke University's Art, Art History and Visual Studies Department.
+This resource was developed as part of the [Humanities Unbounded](https://humanitiesunbounded.duke.edu) Digital Humanities Graduate Assistantship at the Duke Center for Data and Visualization Sciences and with funding from the Wired! Lab at Duke University's Art, Art History and Visual Studies Department. 
+
+Many thanks are due to Eric Monson from the Duke Center for Data and Visualization Sciences, whose weekly suggestions were invaluable throughout the many months this project was in development.
 
 ## Contact
 
